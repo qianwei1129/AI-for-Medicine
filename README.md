@@ -1,9 +1,11 @@
-# The-Analysis-of-Medical-Image
+[**中文**](./README.md) | [**English**](./README_EN.md)
+
+# 医学图像处理
 
 - **2024 8.3**
-- 1.The Analysis of Image Analysis 
-  - 1.1 Image Analysis in the Clinical Workﬂow
-  - 1.2 Using Tools 
-  - 1.3 An Example: Multiple Sclerosis Lesion Segmentation in Brain MRI 
-  - 1.4 Concluding Remarks
-  - 1.5 Exercises 
+- 1.医学图像处理 
+  - 1.1 临床工作流程中的医学图像处理
+  - 1.2 使用的软件
+  - 1.3 实战：多发性硬化症脑MRI病灶分割
+  - 1.4 总结
+  - 1.5 练习 
