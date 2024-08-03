@@ -1,5 +1,7 @@
 [**中文**](./README.md) | [**English**](./README_EN.md)
 
+我将整个仓库分为三个部分，分别是`AI for Medical Diagnosis` `AI for Medical Prognosis` `AI for Medical Treatment`
+
 # 医学图像处理
 
 - **2024 8.3**

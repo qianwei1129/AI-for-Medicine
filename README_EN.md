@@ -1,5 +1,11 @@
 [**中文**](./README.md) | [**English**](./README_EN.md)
 
+I'm going to divide the repository into four sections,including `AI for Medical Diagnosis` 
+`AI for Medical Prognosis` `AI for Medical Treatment` `AI for analysis of Medicial Image`
+
+# AI for Medical Diagnosis
+# AI for Medical Prognosis
+# AI for Medical Treatment
 # The-Analysis-of-Medical-Image
 
 - **2024 8.3**
